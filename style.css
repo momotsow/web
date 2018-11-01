@@ -58,17 +58,8 @@
       border-color: white;
 
   }
-  
-  .khom{
-   max-width: 99%;
-    border-radius: 5px;
-    padding: 4px;
-    margin: 0px 0px 0px 0px;
-    background-color: black;
 
-  }
-
-  h2{
+  /* h2{
     color: white;
     margin-bottom: 45px;
  
@@ -76,7 +67,7 @@
   
  .fab{
   margin: 0px 0px 0px 10px;
- }
+ } */
 
  .box{
   background: #abbaab; 
@@ -108,27 +99,6 @@
 
 }
 
-/* @media (max-width: 767px) {
-  .title {
-    position: relative;
-    top: 0;
-    margin-left: 20px;
-    padding: 20px;
-    width: 100%;
-    padding: 0px; 
-  }
-  h3{
-    
-    padding: 10px;
-  }
-  .content{
-    float: left;
-    width: auto;
-    text-align: center;
-    
-  }
-} */
-
  h3{
   /* font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; */
   font-size: 20px;
@@ -140,6 +110,7 @@
   text-transform: uppercase;
   visibility: visible;
   position: center;
+  
  }
 
  h4{
